@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&redirect=true)
 ![](https://komarev.com/ghpvc/?username=abimbola7&base=1000)
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/abimbola7/my-profile-views-counter)
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/abimbola7/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/abimbola7/my-profile-views-counter)
 <!--
 **abimbola7/abimbola7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
