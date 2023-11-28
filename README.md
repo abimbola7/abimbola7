@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=abimbola7&base=1000)
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/abimbola7/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/abimbola7/my-profile-views-counter)
+[![](https://github.com/abimbola7/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/abimbola7/my-profile-views-counter)
 <!--
 **abimbola7/abimbola7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
