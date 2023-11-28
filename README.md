@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=abimbola7&base=1000)
 
-![Views](https://github-views.deno.dev/api/badge/abimbola7?style=flat)
-
 <!--
 **abimbola7/abimbola7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
