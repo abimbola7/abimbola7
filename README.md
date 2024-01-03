@@ -1,6 +1,8 @@
 ### Hi there  👋
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&redirect=true)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abimbola7&label=Profile%20views&color=0e75b6&style=flat" alt="abimbola7" /> </p>
+
 ![](https://komarev.com/ghpvc/?username=abimbola7&base=1000)
 
 ![Abimbola's GitHub stats](https://github-readme-stats.vercel.app/api?username=abimbola7&theme=dark&show_icons=true)
