@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=abimbola7&base=1000)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abimbola7&" alt="abimbola7" /></p>
+
 ![Abimbola's GitHub stats](https://github-readme-stats.vercel.app/api?username=abimbola7&theme=dark&show_icons=true)
 <!--
 **abimbola7/abimbola7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
