@@ -1,6 +1,3 @@
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&redirect=true)
-
 <h1 align="center">Hi 👋, I'm Abimbola Oladosu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
@@ -32,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abimbola7&show_icons=true&locale=en" alt="abimbola7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abimbola7&" alt="abimbola7" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=rz8ocmqfx6qdsh1u1gle5vmg3&redirect=true)
