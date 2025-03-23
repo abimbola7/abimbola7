@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_jidex" target="blank"><img src="https://img.shields.io/twitter/follow/_jidex?logo=twitter&style=for-the-badge" alt="_jidex" /></a> </p>
 
-- 🔭 I’m currently working on [ConceptZilla](https://conceptzilla.vercel.app)
+- 🔭 I’m currently working on [AllHero with GSAP](https://github.com/abimbola7/allhero-with-gsap)
 
 - 🌱 I’m currently learning **Next.js and GSAP Framework**
 
